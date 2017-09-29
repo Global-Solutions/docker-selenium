@@ -1,4 +1,4 @@
-FROM selenium/node-firefox:3.4.0-dysprosium
+FROM selenium/node-firefox:3.6.0-americium
 MAINTAINER Global Solutions co., ltd.
 
 USER root
