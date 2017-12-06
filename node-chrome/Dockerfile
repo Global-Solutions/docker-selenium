@@ -1,4 +1,4 @@
-FROM selenium/node-chrome:3.6.0-americium
+FROM selenium/node-chrome:3.8.1-aluminum
 MAINTAINER Global Solutions co., ltd.
 
 USER root
