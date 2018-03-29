@@ -1,4 +1,4 @@
-FROM selenium/node-chrome:3.8.1-aluminum
+FROM selenium/node-chrome:3.11.0-bismuth
 MAINTAINER Global Solutions co., ltd.
 
 USER root
