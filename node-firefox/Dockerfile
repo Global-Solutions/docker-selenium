@@ -1,4 +1,4 @@
-FROM selenium/node-firefox:3.11.0-bismuth
+FROM selenium/node-firefox:3.12.0-americium
 MAINTAINER Global Solutions co., ltd.
 
 USER root
